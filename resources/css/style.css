@@ -6,6 +6,16 @@ h1{
   text-align: center;
 }
 
+h2{
+
+}
+
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color:gray;
+}
+
 body{
   background-color: black;
   text-align: center;
